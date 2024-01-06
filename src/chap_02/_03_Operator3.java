@@ -14,7 +14,7 @@ public class _03_Operator3 {
         System.out.println(5==5); // 5는 3보다 작거나 같다 true
         System.out.println(5!=5); // 5는 5와같다 false
         System.out.println(5!=3); // 5는 5와같지않다 true
-        System.out.println("찐짜 어렵네");
+
 
 
 
